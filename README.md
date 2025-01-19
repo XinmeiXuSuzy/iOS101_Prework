@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a video walkthrough of implemented features:
 
-<img src="iOS video walkthrough.gif" width="" alt="Video Walkthrough">
+<img src="ios video walkthrough.gif" width="" alt="Video Walkthrough">
 
 ## App Brainstorming (Step 4)
 
